@@ -33,4 +33,4 @@ The grid has a minimum value of 4 maximum value of 64. At this time, both X and 
 * ENTER = Run Generator
 
 ## Special Thanks
-This generator is 
+This generator is based on the excellent Bauhaus design course by [Tim Rodenbroker](https://timrodenbroeker.de/).
