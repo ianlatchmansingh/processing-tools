@@ -1,6 +1,6 @@
 # Composition Sketcher
 
-![White Primitive Shapes being arranged on a Black Canvas](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![White Primitive Shapes being arranged on a Black Canvas](https://github.com/ianlatchmansingh/processing-tools/blob/main/Composition_Sketcher/output.gif)
 
 A tool for building simple compositions from primitives in a greyscale environment. Built in Processing (Java). This sketcher uses a grid to align and scale objects to, including rotations on rectangular elements. The shape of each element is chosen at random.
 
