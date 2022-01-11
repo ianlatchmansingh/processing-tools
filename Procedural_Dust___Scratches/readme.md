@@ -1,6 +1,6 @@
 # Procedural Dust and Scratches
 
-![ Animation of white dust and scratches on a Black Canvas](https://github.com/ianlatchmansingh/processing-tools/blob/main/Composition_Sketcher/output.gif)
+![ Animation of white dust and scratches on a Black Canvas](https://github.com/ianlatchmansingh/processing-tools/blob/main/Procedural_Dust___Scratches/Example.gif)
 
 A tool for building realistic dust, scratches, and hair as PNG sequences for graphic texture on video. Built in Processing (Java). The placement and design of each element is chosen at random and influenced by noise.
 
