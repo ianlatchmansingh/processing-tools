@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Averia+Serif+Libre&display=swap');
+
+body {
+    background: #000;
+    color: #fff;
+    font: 16px normal Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    font-family: 'Averia Serif Libre', cursive;
+}
